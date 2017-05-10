@@ -2,4 +2,4 @@
 * idea
 * gradle
 * andriod studio
-* 阶段总结
+* tech阶段总结
